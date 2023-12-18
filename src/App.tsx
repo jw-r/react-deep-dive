@@ -1,5 +1,4 @@
 import './App.css';
-import { TodosApp } from './useSyncExternalStore/TodosApp';
 import { useOnlineStatus } from './useSyncExternalStore/useOnlineStatus';
 
 export function App() {

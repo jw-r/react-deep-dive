@@ -6,8 +6,8 @@
 
 ## 언제 사용할까
 
-- 외부 스토어를 구독하는 경우 [예시](https://github.com/jw-r/react-hooks/blob/master/src/useSyncExternalStore/TodosApp.tsx)
-- 브라우저 API 구독하기 [얘시](https://github.com/jw-r/react-hooks/blob/master/src/useSyncExternalStore/useOnlineStatus.ts)
+- 외부 스토어를 구독하는 경우 [예시](https://github.com/jw-r/react-hooks/blob/master/src/hooks/useSyncExternalStore/TodosApp.tsx)
+- 브라우저 API 구독하기 [얘시](https://github.com/jw-r/react-hooks/blob/master/src/hooks/useSyncExternalStore/useOnlineStatus.ts)
 
 ## 구현 코드
 

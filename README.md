@@ -1,3 +1,9 @@
-# React Hooks Deep Dive
+# React Deep Dive
 
-- [useSyncExternalStore](https://github.com/jw-r/react-hooks/blob/master/src/useSyncExternalStore/README.md)
+## Context
+
+## Hooks
+
+- [useMemo](https://github.com/jw-r/react-hooks/blob/master/src/hooks/useMemo/README.md)
+
+- [useSyncExternalStore](https://github.com/jw-r/react-hooks/blob/master/src/hooks/useSyncExternalStore/README.md)
